@@ -7,5 +7,5 @@ deviceApp.controller('DeviceListCtr', function($scope, $http) {
 		$scope.devices = data;
 	});
 
-	$scope.orderProp = '-name';
+	$scope.orderProp = 'name';
 });
