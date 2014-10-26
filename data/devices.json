@@ -1,0 +1,261 @@
+[
+    {        
+        "name": "Apple iPhone 3GS", 
+        "phys_width": "320",
+        "phys_height": "480",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "1"
+    },    
+    {        
+        "name": "Apple iPhone 4", 
+        "phys_width": "640",
+        "phys_height": "960",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "2"
+    },
+    {        
+        "name": "Apple iPhone 5", 
+        "phys_width": "640",
+        "phys_height": "1136",
+        "css_width": "320",
+        "css_height": "568",
+        "pixel_ratio": "2"
+    },
+    {        
+        "name": "Apple iPhone 6", 
+        "phys_width": "750",
+        "phys_height": "1334",
+        "css_width": "375",
+        "css_height": "667",
+        "pixel_ratio": "2"
+    },
+    {        
+        "name": "Apple iPhone 6 Plus", 
+        "phys_width": "1080",
+        "phys_height": "1920",
+        "css_width": "414",
+        "css_height": "736",
+        "pixel_ratio": "3 (2.6)"
+    },
+    {        
+        "name": "Apple iPod Touch 4 Gen", 
+        "phys_width": "640",
+        "phys_height": "960",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "2"
+    },
+    {        
+        "name": "Apple iPod Touch 5 Gen", 
+        "phys_width": "640",
+        "phys_height": "1136",
+        "css_width": "320",
+        "css_height": "568",
+        "pixel_ratio": "2"
+    },
+    {        
+        "name": "Google Nexus 4", 
+        "phys_width": "768",
+        "phys_height": "1280",
+        "css_width": "384",
+        "css_height": "640",
+        "pixel_ratio": "2"
+    },
+    {        
+        "name": "Google Nexus 5", 
+        "phys_width": "1080",
+        "phys_height": "1920",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "3"
+    },
+    {        
+        "name": "HTC 8X", 
+        "phys_width": "720",
+        "phys_height": "1280",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "3"
+    },
+    {        
+        "name": "HTC Evo 3D", 
+        "phys_width": "540",
+        "phys_height": "960",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "1.5"
+    },
+    {        
+        "name": "HTC One", 
+        "phys_width": "1080",
+        "phys_height": "1920",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "3"
+    },
+    {        
+        "name": "Nokia Lumia 1020", 
+        "phys_width": "768",
+        "phys_height": "1280",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "2.4"
+    },
+    {        
+        "name": "Nokia Lumia 620", 
+        "phys_width": "480",
+        "phys_height": "800",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "1.5"
+    },
+    {        
+        "name": "Nokia Lumia 900", 
+        "phys_width": "480",
+        "phys_height": "800",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "1.5"
+    },
+    {        
+        "name": "Nokia Lumia 920", 
+        "phys_width": "768",
+        "phys_height": "1280",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "2.4"
+    },
+    {        
+        "name": "Nokia Lumia 925", 
+        "phys_width": "768",
+        "phys_height": "1280",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "2.4"
+    },
+    {        
+        "name": "Nokia Lumia 1520", 
+        "phys_width": "1080",
+        "phys_height": "1920",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "2.22"
+    },
+    {        
+        "name": "Samsung Galaxy Nexus", 
+        "phys_width": "720",
+        "phys_height": "1200",
+        "css_width": "360",
+        "css_height": "600",
+        "pixel_ratio": "2"
+    },
+    {        
+        "name": "Samsung Galaxy Note", 
+        "phys_width": "800",
+        "phys_height": "1280",
+        "css_width": "400",
+        "css_height": "640",
+        "pixel_ratio": "2"
+    },
+    {        
+        "name": "Samsung Galaxy Note 2", 
+        "phys_width": "720",
+        "phys_height": "1280",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "2"
+    },
+    {        
+        "name": "Samsung Galaxy S", 
+        "phys_width": "480",
+        "phys_height": "800",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "1.5"
+    },
+    {        
+        "name": "Samsung Galaxy S2", 
+        "phys_width": "480",
+        "phys_height": "800",
+        "css_width": "320",
+        "css_height": "480",
+        "pixel_ratio": "1.5"
+    },
+    {        
+        "name": "Samsung Galaxy S3", 
+        "phys_width": "720",
+        "phys_height": "1280",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "2"
+    },
+    {        
+        "name": "Samsung Galaxy S3 mini", 
+        "phys_width": "480",
+        "phys_height": "800",
+        "css_width": "320",
+        "css_height": "533",
+        "pixel_ratio": "1.5"
+    },
+    {        
+        "name": "Samsung Galaxy S4", 
+        "phys_width": "1080",
+        "phys_height": "1920",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "3"
+    },
+    {        
+        "name": "Samsung Galaxy S4 mini", 
+        "phys_width": "540",
+        "phys_height": "960",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "1.5"
+    },
+    {        
+        "name": "Samsung Galaxy S5", 
+        "phys_width": "1080",
+        "phys_height": "1920",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "3"
+    },
+    {        
+        "name": "Samsung Galaxy Note 3", 
+        "phys_width": "1080",
+        "phys_height": "1920",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "3"
+    },
+    {        
+        "name": "Sony Xperia P", 
+        "phys_width": "540",
+        "phys_height": "960",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "1.5"
+    },
+    {        
+        "name": "Sony Xperia S", 
+        "phys_width": "720",
+        "phys_height": "1280",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "2"
+    },
+    {        
+        "name": "Sony Xperia Z", 
+        "phys_width": "1080",
+        "phys_height": "1920",
+        "css_width": "360",
+        "css_height": "640",
+        "pixel_ratio": "3"
+    }
+
+
+
+]
